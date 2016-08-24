@@ -1,3 +1,9 @@
+/**
+* @file		lecture_note.cpp
+* @date		2016.08.23.
+* @author	spearkkk
+* @brief	https://algospot.com/judge/problem/read/LECTURE
+*/
 #include <iostream>
 #include <string>
 

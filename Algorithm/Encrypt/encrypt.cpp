@@ -1,3 +1,9 @@
+/**
+* @file		encrypt.cpp
+* @date		2016.08.23.
+* @author	spearkkk
+* @brief	https://algospot.com/judge/problem/read/ENCRYPT
+*/
 #include <iostream>
 #include <string>
 

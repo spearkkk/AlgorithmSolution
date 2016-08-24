@@ -1,3 +1,9 @@
+/**
+* @file		endians.cpp
+* @date		2016.08.23.
+* @author	spearkkk
+* @brief	https://algospot.com/judge/problem/read/ENDIANS
+*/
 #include <iostream>
 #include <string>
 #include <math.h>
