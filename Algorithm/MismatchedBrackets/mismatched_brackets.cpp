@@ -1,3 +1,9 @@
+/**
+* @file		mismatched_brackets.cpp
+* @date		2016.08.28.
+* @author	spearkkk
+* @brief	https://algospot.com/judge/problem/read/BRACKETS2
+*/
 #include <stdio.h>
 #include <stack>
 
