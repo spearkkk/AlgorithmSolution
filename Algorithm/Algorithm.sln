@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StairClimbing", "StairClimb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StairClimbing2", "StairClimbing2\StairClimbing2.vcxproj", "{ED6A6776-4BE5-4FDB-834B-91AF51AFB288}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogJumping", "LogJumping\LogJumping.vcxproj", "{FAC46EBB-74CB-446B-9BF7-52B46439F884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{ED6A6776-4BE5-4FDB-834B-91AF51AFB288}.Release|x64.Build.0 = Release|x64
 		{ED6A6776-4BE5-4FDB-834B-91AF51AFB288}.Release|x86.ActiveCfg = Release|Win32
 		{ED6A6776-4BE5-4FDB-834B-91AF51AFB288}.Release|x86.Build.0 = Release|Win32
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Debug|x64.ActiveCfg = Debug|x64
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Debug|x64.Build.0 = Debug|x64
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Debug|x86.Build.0 = Debug|Win32
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Release|x64.ActiveCfg = Release|x64
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Release|x64.Build.0 = Release|x64
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Release|x86.ActiveCfg = Release|Win32
+		{FAC46EBB-74CB-446B-9BF7-52B46439F884}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
