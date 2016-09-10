@@ -56,7 +56,7 @@ int main() {
 				rslt += cost[i] - cost_f[i];
 			}
 		}
-		printf("$%.2f\n", rslt/100.0f);
+		printf("$%d.%02d\n", rslt/100, rslt%100);
 	}
 	return 0;
 }
