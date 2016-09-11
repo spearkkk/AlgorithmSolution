@@ -1,3 +1,9 @@
+/**
+* @file		def_bfs.cpp
+* @date		2016.09.11.
+* @author	spearkkk
+* @brief	https://www.acmicpc.net/problem/1260
+*/
 #include <stdio.h>
 #include <vector>
 #include <stack>
@@ -54,6 +60,7 @@ int main() {
 	queue<int> que;
 	que.push(start);
 
+	// BFS
 	while (!que.empty()) {
 		int v = que.front();
 		que.pop();
