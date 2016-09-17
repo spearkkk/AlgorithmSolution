@@ -16,4 +16,5 @@
 
 ##기타 
 * [STL - algorithm의 sort](https://www.acmicpc.net/blog/view/22)
+* [STL - numeric의 iota](http://stackoverflow.com/questions/17694579/use-stdfill-to-populate-vector-with-increasing-numbers) : vector를 순차적으로 증가하는 수로 채울 수 있습니다.
 * [소수 구하기](https://www.acmicpc.net/board/view/3473) : 수의 제곱근까지만 검사하여 시간을 단축시킬 수 있습니다.
