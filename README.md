@@ -16,3 +16,4 @@
 
 ##기타 
 * [STL - algorithm의 sort](https://www.acmicpc.net/blog/view/22)
+* [소수 구하기](https://www.acmicpc.net/board/view/3473) : 수의 제곱근까지만 검사하여 시간을 단축시킬 수 있습니다.
