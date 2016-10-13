@@ -1,7 +1,0 @@
-2
-11
-abracadabra
-dabraabraca
-5
-abcde
-cdfab
