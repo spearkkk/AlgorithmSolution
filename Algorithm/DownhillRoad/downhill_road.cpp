@@ -1,6 +1,17 @@
+/**
+* @file		downhill_road.cpp
+* @date		2016.--.--.
+* @author	spearkkk
+* @brief	https://www.acmicpc.net/problem/1520
+*/
+
 #include <cstdio>
 #include <cstring>
 #include <vector>
+#include <iostream>
+#include <iterator>
+#include <numeric>
+#include <queue>
 
 using namespace std;
 
