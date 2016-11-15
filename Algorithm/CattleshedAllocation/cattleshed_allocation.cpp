@@ -2,7 +2,7 @@
 * @file		cattleshed_allocation.cpp
 * @date		2016.09.14.
 * @author	spearkkk
-* @brief	hhttps://www.acmicpc.net/problem/2188
+* @brief	https://www.acmicpc.net/problem/2188
 */
 #include <stdio.h>
 #include <vector>

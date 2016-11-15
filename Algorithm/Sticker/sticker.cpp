@@ -1,3 +1,9 @@
+/**
+* @file		sticker.cpp
+* @date		2016.--.--.
+* @author	spearkkk
+* @brief	https://www.acmicpc.net/problem/9465 
+*/
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
